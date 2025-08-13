@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+    background: #4dc7f7;
+}
+        
+.weather-container {
+    background-color: white;
+    border-radius: 15px;
+    padding: 30px;
+    width: 320px;
+    text-align: center;
+}
+        
+h1 {
+    color: #333333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+        
+.city {
+    font-size: 32px;
+    font-weight: bold;
+    color: #0077c2;
+    margin: 10px 0;
+}
+        
+.temp {
+    font-size: 50px;
+    font-weight: bold;
+    color: #ff5722; /* 주황색 강조 */
+    margin: 10px 0;
+}
+        
+.description {
+    font-size: 18px;
+    color: #555555;
+    margin-top: 15px;
+}
