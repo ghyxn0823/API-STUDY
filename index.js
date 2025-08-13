@@ -1,6 +1,6 @@
 const API_KEY = "38af3585c465b94521987445de931164";
 
-const CITY_NAME = "Busan";
+const CITY_NAME = "Gwangju";
 
 // HTML에 있는 요소들을 자바스크립트로 가져옴
 const cityElement = document.getElementById("city");
